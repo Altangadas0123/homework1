@@ -309,11 +309,6 @@
 // const pr = hours % d;
 // console.log(`${calc}days, ${pr}hours`);
 // ====================================================================================================
-
-
-
-
-
 // const secunds = 7385;
 // const h = Math.trunc(secunds / 3600);
 // const m = Math.trunc((secunds % 3600) / 60);
